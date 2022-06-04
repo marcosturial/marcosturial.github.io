@@ -1,0 +1,17 @@
+portfolioitems:
+  # portfolio category
+  - title: Data Science Projects
+    portfolioitem:
+      - name: "Project 1: Medical Costs Analysis and Regression"
+        image: '/images/portfolio/code.jpg'
+        link: https://gohugo.io/
+        linktext: 'Visit project website'
+        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+        tags:
+          - Regression
+          - EDA
+        start: 'Jun-2022'
+        authors:
+          - marcosturial

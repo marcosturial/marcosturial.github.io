@@ -1,0 +1,35 @@
+  [[main]]
+  name = "Home"
+  identifier = "main"
+  weight = 100
+  url = "/br/"
+
+  [[main]]
+  name = "Portfolio"
+  weight = 200
+  identifier = "portfolio"
+  url = "/br/portfolio/"
+
+  #[[main]]
+  #name = "Posts"
+  #weight = 300
+  #identifier = "posts"
+  #url = "/br/post/"
+
+  [[main]]
+  name = "Sobre"
+  weight = 400
+  identifier = "about"
+  url = "/br/about/"
+#
+  #[[main]]
+  #name = "Certificações"
+  #weight = 500
+  #identifier = "certifications"
+  #url = "/br/certifications/"
+#
+  #[[main]]
+  #name = "Contatos"
+  #weight = 600
+  #identifier = "contact"
+  #url = "/br/contact/"
