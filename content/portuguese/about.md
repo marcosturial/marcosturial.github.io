@@ -8,13 +8,18 @@ author = "Marcos Turial"
 
 Eu sou o Marcos, bacharel em Engenharia Química pela Universidade de Brasília (UnB). Eu estudei bastante sobre a área de cosméticos e meio ambiente durante a faculdade. Eu me graduei em Dezembro de 2021 e venho desenvolvendo cosméticos, produtos de limpeza e perfumes por hobby desde o começo 2019. 
 
-I discovered the Data Science and Artificial Ingelligence fields in the middle of 2021 and immediately fell in love with it. I have been studying a lot of the field since then and joined a voluntary project with a company called [Softex](https://softex.br
-). The project's name was "Popularizando a Inteligência Artificial" (Popularizing the Artificial Intelligence). The main goal of the project was to make videos about some AI subjects and teach them in a simple way, in which any person could understand, even with no prior technology background.
+Eu descobri as áreas de Ciência de Dados e Inteligência artificial em meados do ano de 2021 e me encantei por elas na hora. Venho estudando bastante sobre as áreas desde então e participei de um projeto voluntário na empresa <a href="https://softex.br" target ="blank"> Softex </a>com o objetivo de me aprofundar mais no tema. O nome do projeto era "Popularizando a Inteligência artificial" e o objetivo principal era criar conteúdo e gravar vídeos sobre alguns temas de IA e ensiná-los de uma maneira simples, que qualquer pessoa conseguisse compreender, mesmo que não tivesse nenhum conhecimento prévio com tecnologia.
 
-Recently, I have been focusing all my effort and free time into studying and building a consistent background in Data Science and Machine Learning by taking online courses, reading books, kaggle notebooks, medium posts, and joining some data science communities. I aim to get a job in the field as soon as possible.
+Ultimamente, eu tenho focado meu esforço e tempo livre para estudar e contruir uma base sólida em Ciência de Dados e Machine Learning por meio de cursos online, livros, kaggle notebooks, posts no medium, e participando de algumas comunidades de ciência de dados. Pretendo conseguir um emprego na área o quanto antes e buscar evoluir cada vez mais.
 
-#### Technologies I already know:
+#### Technologies que tenho conhecimento:
 * R and RMarkdown 
 * Azure ML 
 * Python (Numpy, Pandas, Scikit-learn, Seaborn, Matplotlib...)
 * SQL (Postgres and MySQL)
+* Power BI
+
+#### Tecnhologies que estou estudando
+* Py Spark
+* Apache Hadoop
+* TensorFlow 

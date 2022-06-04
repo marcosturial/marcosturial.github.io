@@ -6,7 +6,7 @@ contentDir = "content/english"
 
 [br]
 title = "Marcos Turial"
-description = "Um Engenheiro Química que ama dados, inteligência artificial e a natureza"
+description = "Um Engenheiro Químico que ama dados, inteligência artificial e a natureza"
 contentDir = "content/portuguese" 
 weight = 2
 LanguageName = "PT"
