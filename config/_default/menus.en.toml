@@ -1,5 +1,5 @@
   [[main]]
-  name = "Home"
+  name = "About"
   identifier = "home"
   weight = 100
   url = "/"
@@ -10,17 +10,17 @@
   identifier = "portfolio"
   url = "/portfolio/"
 
-  #[[main]]
-  #name = "Posts"
-  #weight = 300
-  #identifier = "posts"
-  #url = "/post/"
+  # [[main]]
+  # name = "Posts"
+  # weight = 300
+  # identifier = "posts"
+  # url = "/post/"
 
-  [[main]]
-  name = "About"
-  weight = 400
-  identifier = "about"
-  url = "/about/"
+  # [[main]]
+  # name = "About"
+  # weight = 400
+  # identifier = "about"
+  # url = "/about/"
 
   #[[main]]
   #name = "Certifications"

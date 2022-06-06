@@ -1,0 +1,23 @@
+portfolioitems:
+  # portfolio category
+  - title: Projetos de Data Science
+    portfolioitem:
+      - name: "Projeto 1: Análise e Regressão de Despesas Hospitalares"
+        image: '/images/portfolio/project-1/medical-costs-thumb.jpg'
+        link: 'https://marcosturial.github.io/Medical_Costs/'
+        linktext: 'Ver projeto completo'
+        description: |
+          O projeto conta com:
+          * Análise exploratória de dados para compreender o que está relacionado com as despesas médicas
+          * Gráficos feitos com ggplot2 para melhor visualização dos dados
+          * Modelos de Regressão Linear Múltipla e Regressão Polinomial
+          * Regularização com regressões Lasso, Ridge e Elastic Net
+          * Regressão por Floresta Aleatória (Random Forest)
+
+          *O Projeto só está disponível em inglês por enquanto*
+        tags:
+          - Regression
+          - EDA
+        date: 'Jun-2022'
+        authors:
+          - marcosturial

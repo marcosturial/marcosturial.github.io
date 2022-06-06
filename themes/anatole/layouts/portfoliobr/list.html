@@ -1,5 +1,5 @@
 {{ define "main" }}
-  {{ range $index, $elemen:= .Site.Data.portfolio.portfolioitems }}
+  {{ range $index, $elemen:= .Site.Data.portfoliobr.portfolioitems }}
     <div
       class="post {{ with .Site.Params.doNotLoadAnimations }}
         .
@@ -95,7 +95,7 @@
 
 
                   {{- else -}}
-                    Visit Site
+                    Visitar Site
 
                   {{- end -}}
                 </a>

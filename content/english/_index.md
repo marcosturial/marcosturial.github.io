@@ -1,11 +1,9 @@
 +++
 title = "About me"
-description = "Just a guy who loves to study and spread knowledge about what he learns with data"
-date = "2022-06-03"
-aliases = ["marcos", "about-me", "contact"]
 author = "Marcos Turial"
 
 +++
+# About me
 
 I am Marcos, a brazilian Chemical Engineer from Universidade de Brasília (UnB). I studied a lot about the cosmetics industry and environmental engineering while in college. I graduated at December 2021 and I have been developing some cosmetics, cleaning products and perfumes for hobby since 2019. 
 
@@ -24,3 +22,26 @@ Recently, I have been focusing my effort and free time into studying and buildin
 * Py Spark
 * Apache Hadoop
 * TensorFlow 
+
+
+<!--
+This file is left intentionally empty by default to be backwards compatible with the initial theme setup.
+
+Although the theme has advanced a little bit and it now allows to specify the content on the main page (even if the list of posts/articles is not intended).
+This can be:
+- with the list of posts/articles (default: `mainSections = ["post"]) or
+- without the list of posts/articles (by setting `mainSections = [""]`)
+
+Markdown supported, ie:
+
+```
+# Welcome
+
+- Hugo :rocket:
+- Hugo theme :rocket:
+
+Don't forget to check the README.md file!
+```
+
+Remember that you can also specify a section header for the posts below by configuring the `mainSectionsTitle` parameter in the front matter of this file.
+-->

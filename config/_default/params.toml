@@ -13,6 +13,7 @@ customJs = []
 displayMode = ["dark"]
 
 mainSections = []
+# fullPostContent = ""
 
 # images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false

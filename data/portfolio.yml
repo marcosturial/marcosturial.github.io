@@ -3,15 +3,19 @@ portfolioitems:
   - title: Data Science Projects
     portfolioitem:
       - name: "Project 1: Medical Costs Analysis and Regression"
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        linktext: 'Visit project website'
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+        image: '/images/portfolio/medical-costs-thumb.jpg'
+        link: 'https://marcosturial.github.io/Medical_Costs/'
+        linktext: 'See full project'
+        description: |
+          This project has: 
+          * Exploratory Data Analysis to understand what is correlated with medical charges
+          * Graphs made with ggplot2 for a better data viz
+          * Linear and Polynomial Regression models with a little explanation
+          * Regularization with Lasso, Ridge and Elastic Net Regression 
+          * Random Forest Regression
         tags:
           - Regression
           - EDA
-        start: 'Jun-2022'
+        date: 'Jun-2022'
         authors:
           - marcosturial
